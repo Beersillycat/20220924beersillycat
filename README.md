@@ -5,5 +5,5 @@
 IOS，MAC，WINDOWS，Android全平台支持连接多种协议，支持节点测速APP: SSRRAY
 跨平台，多协议节点每日测速排序后发布
 
-更新页面网址
+节点每日更新页面网址：（猫村）
 http://pusshamlet.com/vpn
